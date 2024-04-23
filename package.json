@@ -15,9 +15,13 @@
     "lint-staged": "lint-staged"
   },
   "dependencies": {
+    "axios": "^1.6.8",
+    "element-plus": "^2.7.1",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
     "pinia": "^2.1.7",
+    "sass": "^1.75.0",
+    "scss": "^0.2.4",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
